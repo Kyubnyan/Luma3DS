@@ -1,9 +1,8 @@
 # Luma3DS
-*Noob-proof (N)3DS "Custom Firmware"*
+*放菜鸟 (新)3DS "自制系统"*
 
-## What it is
-
-**Luma3DS** is a program to patch the system software of (New) Nintendo 3DS handheld consoles "on the fly", adding features (such as per-game language settings and debugging capabilities for developers) and removing restrictions enforced by Nintendo (such as the region lock).
+## 这是什么？
+**Luma3DS** 是一个把3DS软件补的应用程式, 可以加特点（例如用别的语言在特别的游戏和排错能力如果你是电脑业者）和去任天堂的约束（例如锁区）。
 It also allows you to run unauthorized ("homebrew") content by removing signature checks.  
 To use it, you will need a console capable of running homebrew software on the ARM9 processor. We recommend [Plailect's guide](https://3ds.guide/) for details on how to get your system ready.
 
@@ -22,17 +21,17 @@ You can find the compiled files in the `out` folder.
 
 ## Setup / Usage / Features
 
-See https://github.com/AuroraWright/Luma3DS/wiki
+参观 https://github.com/AuroraWright/Luma3DS/wiki
 
 ---
 
 ## Credits
 
-See https://github.com/AuroraWright/Luma3DS/wiki/Credits
+参观 https://github.com/AuroraWright/Luma3DS/wiki/Credits
 
 ---
 
 ## Licensing
 
-This software is licensed under the terms of the GPLv3.  
+This software is licensed under the terms of the GPLv3.   
 You can find a copy of the license in the LICENSE.txt file.
