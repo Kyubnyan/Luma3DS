@@ -3,9 +3,8 @@
 
 ## 这是什么？
 **Luma3DS** 是一个把3DS软件补的应用程式, 可以加特点（例如用别的语言在特别的游戏和排错能力如果你是电脑业者）和去任天堂的约束（例如锁区）。
-It also allows you to run unauthorized ("homebrew") content by removing signature checks.  
-To use it, you will need a console capable of running homebrew software on the ARM9 processor. We recommend [Plailect's guide](https://3ds.guide/) for details on how to get your system ready.
-
+它也让你用擅自（自制程序）的内容。  
+如果你要用它, 你需要有一个可以用自制程序的3DS在"arm9"处理器。我们建议你用[Plailect的教程](https://3ds.guide/) 所以你知道怎么办。
 ---
 
 ## Compiling
